@@ -1,0 +1,5 @@
+email,name,phone
+test1@example.com,"Test User 1","+1234567890"
+test2@example.com,"Test User 2","+1234567891"
+test3@example.com,"Test User 3","+1234567892"
+demo@example.com,"Demo User","+1234567893"

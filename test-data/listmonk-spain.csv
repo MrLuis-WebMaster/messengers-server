@@ -1,0 +1,11 @@
+email,name,attributes
+juan.perez@gmail.com,"Juan Pérez","{""phone"": ""+34612345678"", ""age"": 35, ""city"": ""Madrid"", ""preferences"": ""newsletter"", ""language"": ""es""}"
+maria.garcia@hotmail.com,"María García","{""phone"": ""+34612345679"", ""age"": 28, ""city"": ""Barcelona"", ""preferences"": ""promotions"", ""language"": ""es""}"
+carlos.lopez@yahoo.com,"Carlos López","{""phone"": ""+34612345680"", ""age"": 42, ""city"": ""Valencia"", ""preferences"": ""updates"", ""language"": ""es""}"
+ana.martinez@gmail.com,"Ana Martínez","{""phone"": ""+34612345681"", ""age"": 31, ""city"": ""Sevilla"", ""preferences"": ""newsletter"", ""language"": ""es""}"
+luis.rodriguez@outlook.com,"Luis Rodríguez","{""phone"": ""+34612345682"", ""age"": 26, ""city"": ""Bilbao"", ""preferences"": ""promotions"", ""language"": ""es""}"
+carmen.sanchez@gmail.com,"Carmen Sánchez","{""phone"": ""+34612345683"", ""age"": 38, ""city"": ""Málaga"", ""preferences"": ""updates"", ""language"": ""es""}"
+david.fernandez@hotmail.com,"David Fernández","{""phone"": ""+34612345684"", ""age"": 29, ""city"": ""Zaragoza"", ""preferences"": ""newsletter"", ""language"": ""es""}"
+laura.jimenez@gmail.com,"Laura Jiménez","{""phone"": ""+34612345685"", ""age"": 33, ""city"": ""Murcia"", ""preferences"": ""promotions"", ""language"": ""es""}"
+miguel.ruiz@yahoo.com,"Miguel Ruiz","{""phone"": ""+34612345686"", ""age"": 27, ""city"": ""Palma"", ""preferences"": ""updates"", ""language"": ""es""}"
+isabel.torres@gmail.com,"Isabel Torres","{""phone"": ""+34612345687"", ""age"": 40, ""city"": ""Las Palmas"", ""preferences"": ""newsletter"", ""language"": ""es""}"

@@ -1,0 +1,11 @@
+email,name,phone,attributes
+user1@example.com,"Juan Pérez","+1234567890","{""age"": 35, ""city"": ""Madrid"", ""preferences"": ""newsletter""}"
+user2@example.com,"María García","+1234567891","{""age"": 28, ""city"": ""Barcelona"", ""preferences"": ""promotions""}"
+user3@example.com,"Carlos López","+1234567892","{""age"": 42, ""city"": ""Valencia"", ""preferences"": ""updates""}"
+user4@example.com,"Ana Martínez","+1234567893","{""age"": 31, ""city"": ""Sevilla"", ""preferences"": ""newsletter""}"
+user5@example.com,"Luis Rodríguez","+1234567894","{""age"": 26, ""city"": ""Bilbao"", ""preferences"": ""promotions""}"
+user6@example.com,"Carmen Sánchez","+1234567895","{""age"": 38, ""city"": ""Málaga"", ""preferences"": ""updates""}"
+user7@example.com,"David Fernández","+1234567896","{""age"": 29, ""city"": ""Zaragoza"", ""preferences"": ""newsletter""}"
+user8@example.com,"Laura Jiménez","+1234567897","{""age"": 33, ""city"": ""Murcia"", ""preferences"": ""promotions""}"
+user9@example.com,"Miguel Ruiz","+1234567898","{""age"": 27, ""city"": ""Palma"", ""preferences"": ""updates""}"
+user10@example.com,"Isabel Torres","+1234567899","{""age"": 40, ""city"": ""Las Palmas"", ""preferences"": ""newsletter""}"

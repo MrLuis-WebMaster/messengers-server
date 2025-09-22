@@ -1,0 +1,5 @@
+email,name,attributes
+test1@example.com,"Test User 1","{""phone"": ""+1234567890"", ""age"": 25, ""status"": ""active""}"
+test2@example.com,"Test User 2","{""phone"": ""+1234567891"", ""age"": 30, ""status"": ""active""}"
+test3@example.com,"Test User 3","{""phone"": ""+1234567892"", ""age"": 28, ""status"": ""active""}"
+demo@example.com,"Demo User","{""phone"": ""+1234567893"", ""age"": 35, ""status"": ""demo""}"
